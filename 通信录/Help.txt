@@ -1,0 +1,38 @@
++-------------------------------------------------------------------------------------------------------+
+| 1 .Inquire:Inquire contact's information                                                              |
+|    Please input the contact person's name which you want to inquire.                                  |
+|    Whenever a message is successfully seeked,enter Y/N to decide whether to continue inquiring.       |
+|                                                                                                       |
+| 2. Display:                                                                                           |
+|    Display the records.                                                                               |
+|                                                                                                       |
+| 3. Delete: Delete records:                                                                            |
+|    Please input the contact person's name which you want to delete.                                   |
+|    Whenever a message is successfully deleted,enter Y/N to decide whether to continue deleting.       |
+|                                                                                                       |
+| 4. Add: Add records:                                                                                  |
+|    Please input the relation,name,age,phonenumber,e-mail's address and address of the contact person  |
+|    who you want to add with the instructions.                                                         |
+|    Whenever a message is successfully added,enter Y/N to decide whether to continue adding.           |
+|                                                                                                       |
+| 5. Modification:Change records:                                                                       |
+|    Please input the contact person's name which you want to change.Then input the relation,name,age,  |
+|    phonenumber,e-mail's address and address of the contact person                                     |
+|    who you want to change.                                                                            |
+|    Whenever a message is successfully changed,enter Y/N to decide whether to continue changing.       |
+|                                                                                                       |
+| 6. Statistic:                                                                                         |
+|    Statistic the records according to relation.                                                       |
+|                                                                                                       |
+| 7. Sort:                                                                                              |
+|    Sort the address-book by the contact's name.                                                       |
+|                                                                                                       |
+| 8. Save:Save the records in the form of file.                                                         |
+|    Please input the file name then save the records.                                                  |
+|    If you saved successfully,computers will display"Success" ,else it will display "Failed".          |
+|                                                                                                       |
+| 9.About:                                                                                              |
+|   In this select,you can see the information about our team.                                          |
+|                                                                                                       |
+|                                        Thanks for using!                                              |
++-------------------------------------------------------------------------------------------------------+
